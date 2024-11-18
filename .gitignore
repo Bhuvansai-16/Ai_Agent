@@ -144,6 +144,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+elaborate-karma-441304-q6-79c67b31dfa2.json
 
 # Pyre type checker
 .pyre/
